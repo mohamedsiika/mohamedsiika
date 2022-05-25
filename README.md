@@ -1,11 +1,14 @@
-### Hi there 👋 I am Mohamed Sayed
+### Hi there 👋, I am Mohamed Sayed
+Artificial Intelligence engineer and a Data scientist
+
+- 🔭 I’m currently working on deep learning and data science in forex market 
+- 👯 I’m looking to collaborate on - 👯 I’m looking to collaborate on Artificial intelligence projects 
+- 📫 How to reach me: msiika70@gmail.com 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohamedsiika)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/msiika70//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/mohamed_siika)  
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsiika)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on deep learning and data science in forex market
-- 👯 I’m looking to collaborate on Artificial intelligence projects
-- 📫 How to reach me: msiika70@gmail.com
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedsiika&show_icons=true&count_private=true)  
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedsiika&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=282a36">
