@@ -2,7 +2,7 @@
 Artificial Intelligence engineer and a Data scientist
 
 - 🔭 I’m currently working on deep learning and data science in forex market 
-- 👯 I’m looking to collaborate on - 👯 I’m looking to collaborate on Artificial intelligence projects 
+- 👯 I’m looking to collaborate on Artificial intelligence projects 
 - 📫 How to reach me: msiika70@gmail.com 
 
 
